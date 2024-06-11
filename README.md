@@ -1,2 +1,2 @@
-# c-assignment
+# c++-assignment
 number guessing game 
